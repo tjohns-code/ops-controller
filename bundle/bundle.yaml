@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "tjohns-code-ops-controller"
 description: "CloudBees CI configuration bundle for the tjohns-code ops-controller Controller"
 parent: "base"
